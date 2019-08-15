@@ -2,9 +2,9 @@
 
 Objetivo deste comparativos é mostrar ajudar nos estudo dos 3 principais frameworks javascript mais usados.
 
+  - Angular 7
   - React
   - Vue
-  - Angular 7
 
 # Importante
 
